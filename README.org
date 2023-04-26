@@ -1,0 +1,6 @@
+#+title: README
+
+This is a public GitHub repository for issues, feature requests, and bug reports for ATC's [[https://www.asianturfgrass.com/project/om246/][OM246 report]] software.
+
+Please report [[https://github.com/micahwoods/om246-report/issues][issues here]].
+
